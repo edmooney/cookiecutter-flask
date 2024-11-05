@@ -2,7 +2,7 @@
 
 # Flask
 Flask==2.0.2
-Werkzeug==2.0.2
+Werkzeug==3.0.6
 click>=7.0
 
 # Database
@@ -19,7 +19,7 @@ Flask-WTF==0.15.1
 WTForms==2.3.3
 
 # Deployment
-gevent==21.8.0
+gevent==24.10.1
 gunicorn>=19.9.0
 supervisor==4.2.2
 
